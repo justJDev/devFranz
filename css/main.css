@@ -1,0 +1,13 @@
+button#backbtn {
+    display: inline-block;
+    background: none;
+    border: none;
+    position: absolute;
+    top: 11px;
+    left: 51px;
+}
+
+button#backbtn img {
+    -webkit-filter: brightness(0) invert(1);
+    filter: brightness(0) invert(1);
+}

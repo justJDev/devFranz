@@ -1,0 +1,23 @@
+{
+  "name": "devFranz",
+  "version": "1.0.0",
+  "description": "devRant plugin for Franz",
+  "main": "index.js",
+  "author": "justJDev",
+  "license": "Copyright (c) Juraj Marcin",
+  "config": {
+    "serviceURL": "https://devrant.io/feed",
+    "serviceName": "devRant",
+    "message": "Connect with fellow devs over code, tech & life as a programmer",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
